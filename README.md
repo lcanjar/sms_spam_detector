@@ -9,7 +9,7 @@ The assignment is to refactor sms_text_classification_solution source code that 
 - CLoned new repository to my computer
 - Download files and update source files to GitHub to begin development
 
-# Also created a function to overfit the data since 'labels' data is imbalanced
+# Also created a function to overfit the data since 'label' data is imbalanced
 
 # Step 1:  Create the SMS Classification Function
 - Set feature variable to X
