@@ -25,5 +25,12 @@ The assignment is to refactor sms_text_classification_solution source code that 
 # Step 3: Create the Gradio Interface Application
 - Create interface application with a text box for input and one for output
 - Launch the appllication and share the URL for the application: https://fb6a7696c79841425e.gradio.live/
+
+# Results:  Output from text message test interface and below email subjects
+1. You are a lucky winner of $5000! **- This was not flagged as Spam.  I tried to overfit the model but did not change results.  I assume it is a training issue.**
+2. You won 2 free tickets to the Super Bowl. **- This was flagged as spam.**
+3. You won 2 free tickets to the Super Bowl text us to claim your prize. **- This was flagged as spam.**
+4. Thanks for registering. Text 4343 to receive free updates on medicare. **- This was flagged as spam.**
+
 ___
 Assignment copmpleted by Louis Canjar with assistance from Xpert Learning Assistant.
